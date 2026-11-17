@@ -1,0 +1,6 @@
+{
+  "name": "英単語帳",
+  "description": "English flashcard learning app with multiple parts of speech, Excel import, and audio playback",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

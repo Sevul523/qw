@@ -1,0 +1,6 @@
+{
+  "name": "英単語・古語帳",
+  "description": "英語＆大学受験・共通テスト重要古語の2刀流単語帳アプリ。英単語と古語を1タップで切り替え、多義語・品詞・活用形・自動補完・忘却曲線SRS学習に対応",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
